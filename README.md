@@ -4,7 +4,8 @@
 This project is utilized for the purpose of detecting violations of motorbike riders not wearing helmets when participating in traffic. There are three main models used in this project: the Moto_Detect_Model (model to detect motorcycles in images), the Helmet_LP_Detect_Model (model to detect helmets and license plates), and the ReadLP_Model (model to read license plates). We have integrated these three models together according to the logic flow in the overview diagram below and developed an interface allowing direct detection of helmet violation on video.
 
 ## Overview and Explanation
-![image](https://github.com/ThanhSan97/Helmet-Violation-Detection-Using-YOLO-and-VGG16/assets/91296937/4a1369e5-a6da-4b0e-af8f-ee4ab724702b)
+![image](https://github.com/ThanhSan97/Helmet-Violation-Detection-Using-YOLO-and-VGG16/assets/91296937/7447a70e-7597-4419-9965-75cc7a0f9988)
+
 
 - **Model 1: Detect Motobike using YOLOv8**
   + **Input:** Traffic images include various vehicles.
