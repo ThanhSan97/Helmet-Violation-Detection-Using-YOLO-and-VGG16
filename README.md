@@ -37,6 +37,7 @@ Meanwhile, the motorcycle license plate will be cropped based on the bounding bo
 ## GUI Design
 After training three models, we developed a basic interface using PyQt5. This interface allows users to upload traffic videos and click "Detect." Subsequently, traffic violations and corresponding images will be displayed on the screen.
 ![image](https://github.com/user-attachments/assets/c81b8057-67c0-423e-84aa-87078d4e145a)
+
 Our system offers a variety of interfaces allowing users to generate customized reports and statistics based on specific timeframes and locations
 ![image](https://github.com/user-attachments/assets/606c0540-74fb-410d-8d21-002405b30d74)
 
