@@ -34,6 +34,12 @@ The dataset for this third model is a character dataset we collected from the in
 Meanwhile, the motorcycle license plate will be cropped based on the bounding box drawn by Model 2. Then, preprocessing steps in the OCR process will be carried out, which involve numerous different steps—you can explore OCR tasks to understand more details. After contrast enhancement, noise reduction, etc., we will draw contours around the characters in the license plate and cut them out to save as a sequence of images. VGG16 will be used to recognize these cropped characters and output the content of the license plate.
 ![image](https://github.com/ThanhSan97/Helmet-Violation-Detection-Using-YOLO-and-VGG16/assets/91296937/ecc37b89-0e91-483b-b92f-d176edfa105e)
 
+## GUI Design
+After training three models, we developed a basic interface using PyQt5. This interface allows users to upload traffic videos and click "Detect." Subsequently, traffic violations and corresponding images will be displayed on the screen.
+![image](https://github.com/user-attachments/assets/c81b8057-67c0-423e-84aa-87078d4e145a)
+Our system offers a variety of interfaces allowing users to generate customized reports and statistics based on specific timeframes and locations
+![image](https://github.com/user-attachments/assets/606c0540-74fb-410d-8d21-002405b30d74)
+
 ## Participants
 1. NGUYEN DINH THANH SAN
 - Major: Artificial Intelligence
