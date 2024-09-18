@@ -41,6 +41,9 @@ After training three models, we developed a basic interface using PyQt5. This in
 Our system offers a variety of interfaces allowing users to generate customized reports and statistics based on specific timeframes and locations
 ![image](https://github.com/user-attachments/assets/606c0540-74fb-410d-8d21-002405b30d74)
 
+## Link Demo
+https://drive.google.com/drive/folders/1tTR3yGx-8mPmHMBefnhqLmVeV9GLH44i?usp=sharing
+
 ## Participants
 1. NGUYEN DINH THANH SAN
 - Major: Artificial Intelligence
