@@ -66,4 +66,4 @@ https://drive.google.com/drive/folders/1tTR3yGx-8mPmHMBefnhqLmVeV9GLH44i?usp=sha
 ## Project and Dataset Information
 - **Traffic Dataset: https://universe.roboflow.com/cdio-zmfmj/motobike-detection**
 - **Helmet and LP Dataset: https://universe.roboflow.com/cdio-zmfmj/helmet-lincense-plate-detection-gevlq**
-- **LP Character Dataset: https://drive.google.com/file/d/18Sm22tq9vaTEtNcm8hKYxYcLokuoHRsI/view?usp=drive_link**
+- **LP Character Dataset: https://drive.google.com/drive/folders/1hxB8147kZUgVipVys8VRkcYkOFwAozTD?usp=drive_link**
